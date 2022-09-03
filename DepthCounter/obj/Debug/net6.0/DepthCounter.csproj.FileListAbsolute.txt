@@ -1,0 +1,15 @@
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\bin\Debug\net6.0\DepthCounter.exe
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\bin\Debug\net6.0\DepthCounter.deps.json
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\bin\Debug\net6.0\DepthCounter.runtimeconfig.json
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\bin\Debug\net6.0\DepthCounter.dll
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\bin\Debug\net6.0\DepthCounter.pdb
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.csproj.AssemblyReference.cache
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.AssemblyInfoInputs.cache
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.AssemblyInfo.cs
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.dll
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\refint\DepthCounter.dll
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.pdb
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\DepthCounter.genruntimeconfig.cache
+C:\Users\pauli\Desktop\Learning\microservices\microservices\DepthCounter\DepthCounter\obj\Debug\net6.0\ref\DepthCounter.dll
