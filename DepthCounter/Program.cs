@@ -4,7 +4,6 @@ using DepthCounter.Tools;
 
 Console.WriteLine("Hello, World!");
 
-// Creates a new st
 Branch manuallyCreatedTree = BranchGenerator.GenerateNewTree();
 int depth = DepthCalculator.CalculateDepth(manuallyCreatedTree);
 
