@@ -9,7 +9,7 @@ int depth = DepthCalculator.CalculateDepth(manuallyCreatedTree);
 
 Branch rootNode = new Branch();
 // populates the branch with selected depth, large numbers can cause stack overflow
-BranchGenerator.PopulateBranch(rootNode, 12, 7);
+BranchGenerator.PopulateBranch(rootNode, 17, 7);
 int secondDepth = DepthCalculator.CalculateDepth(rootNode);
 
 Console.WriteLine($"Depth of the tree: {depth}");

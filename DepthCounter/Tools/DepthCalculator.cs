@@ -17,18 +17,15 @@ namespace DepthCounter.Tools
                 return 1;
             }
 
-            Dictionary<int, int> childrenDepths = new Dictionary<int, int>();
+            int[] branchesDepths = new int[currentBranch.Branches.Count];
 
             for (int i = 0; i < currentBranch.Branches.Count; i++)
             {
-                childrenDepths.Add(i, CalculateDepth(currentBranch.Branches[i]));
+                branchesDepths[i] = CalculateDepth(currentBranch.Branches[i]);
             }
 
-            var childWithMaxDepth = childrenDepths.FirstOrDefault(x => x.Value == childrenDepths.Values.Max());
-
-            return childWithMaxDepth.Value + 1;
+            return branchesDepths.Max() + 1;
         }
-
 
     }
 }
